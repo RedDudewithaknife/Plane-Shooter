@@ -14,7 +14,7 @@ In this game you were sent on a scouting mission but was intercepted by a few ex
 
 ### Dependencies
 
-* google chrome v. 116 (PC version)
+* PC
 
 ### Executing program
 
