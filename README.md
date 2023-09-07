@@ -21,5 +21,6 @@ In this game you were sent on a scouting mission but was intercepted by a few ex
 Press the green flag to start
 
 ## Authors
-Bennedict Clemence Lie
+* Bennedict Clemence Lie
+
 yourlocalhomelessman2#0390
